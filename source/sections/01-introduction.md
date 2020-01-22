@@ -1,8 +1,8 @@
 # 1. Introduction
 
-Datica Health, Inc ("Datica") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its Customers. As providers of compliant, hosted infrastructure used by health technology vendors, developers, designers, agencies, custom development shops, and enterprises, Datica strives to maintain compliance, proactively address information security, mitigate risk for its Customers, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Datica to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Datica Customers.
+Charles River Analytics ("CRA") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its Customers. As providers of compliant, hosted infrastructure used by health technology vendors, developers, designers, agencies, custom development shops, and enterprises, Datica strives to maintain compliance, proactively address information security, mitigate risk for its Customers, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by CRA to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for CRA Customers.
 
-Datica provides secure and compliant cloud-based software. This hosted software falls into two broad categories: 1) **Platform as a Service (PaaS)** and 2) **Platform Add-ons**. These Categories are cited throughout policies as Customers in each category inherit different policies, procedures, and obligations from Datica.
+CRA provides secure and compliant cloud-based software. This hosted software falls into two broad categories: 1) **Platform as a Service (PaaS)** and 2) **Platform Add-ons**. These Categories are cited throughout policies as Customers in each category inherit different policies, procedures, and obligations from CRA.
 
 ## 1.1 Platform as a Service (PaaS)
 
@@ -47,11 +47,11 @@ All Platform Add-ons and operating systems are tested end-to-end for usability, 
 
 ## 1.4 Requesting Audit and Compliance Reports
 
-Datica, at its sole discretion, shares audit reports, including its HITRUST reports and Corrective Action Plans (CAPs), with customers on a case by case basis. All audit reports are shared under explicit NDA in Datica format between Datica and party to receive materials. Audit reports can be requested by Datica workforce members for Customers or directly by Datica Customers.
+CRA, at its sole discretion, shares audit reports, including its HITRUST reports and Corrective Action Plans (CAPs), with customers on a case by case basis. All audit reports are shared under explicit NDA in Datica format between Datica and party to receive materials. Audit reports can be requested by Datica workforce members for Customers or directly by Datica Customers.
 
 The following process is used to request audit reports:
 
-1. Email is sent to compliance-reports@datica.com. In the email, please specify the type of report being requested and any required timelines for the report.
+1. Email is sent to compliance-reports@cra.com. In the email, please specify the type of report being requested and any required timelines for the report.
 2. Datica staff will log an issue with the details of the request into the Datica Quality Management System. The Datica Quality Management System is used to track requests' status and outcomes.
 3. Datica will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Datica will send one for execution.
 4. Once it has been confirmed that an NDA is executed, Datica staff will move the issue to "Under Review".
