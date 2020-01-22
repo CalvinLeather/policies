@@ -1,6 +1,6 @@
 # 4. Risk Management Policy
 
-This policy establishes the scope, objectives, and procedures of Datica's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission.
+This policy establishes the scope, objectives, and procedures of CRA's information security risk management process. The risk management process is intended to support and protect the organization and its ability to fulfill its mission.
 
 ## 4.1 Applicable Standards
 
@@ -18,7 +18,7 @@ This policy establishes the scope, objectives, and procedures of Datica's inform
 
 ## 4.2 Risk Management Policies
 
-1. It is the policy of Datica to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Datica's information security program.
+1. It is the policy of CRA to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the CRA's information security program.
 2. Risk analysis and risk management are recognized as important components of Datica's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
    1. Risk assessments are done throughout product life cycles;
    2. Before the integration of new system technologies and before changes are made to Datica physical safeguards; and
